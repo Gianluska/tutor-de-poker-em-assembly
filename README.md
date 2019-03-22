@@ -1,5 +1,5 @@
 # Tutor-de-Poker-em-Assembly-
-Um tutor de Poker feito em Assembly Linux x86 para um trabalho na faculdade.
+Um tutor de Poker feito em Assembly (Linux, Arquitetura Intel x86) para um trabalho na faculdade.
 
 Instrucoes:
  - Na pasta ja vem um arquivo Makefile que compila em NASM o programa, caso haja alteracao no codigo o mesmo deve ser compilado novamente pelo comando "make" no terminal Linux.
